@@ -1,0 +1,17 @@
+@@TRAX:hello "trax.name=" "trax.family=" "trax.image=path;" "trax.region=rectangle;" "trax.description=" "trax.version=3" "vot=python" "trax.channels=color;" 
+@@TRAX:initialize "file:///home/vot-workspace/sequences/ball1/color/00000001.jpg" "496.0000,419.0000,40.0000,42.0000" 
+@@TRAX:state "496.0000,419.0000,40.0000,42.0000" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/ball1/color/00000002.jpg" 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/local/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/vot-workspace/tracker/vision_challenge_tracker.py", line 177, in <module>
+    region, confidence = tracker.track(image)
+  File "/home/vot-workspace/tracker/vision_challenge_tracker.py", line 96, in track
+    result = cv2.matchTemplate(
+cv2.error: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/templmatch.cpp:1168: error: (-215:Assertion failed) (depth == CV_8U || depth == CV_32F) && type == _templ.type() && _img.dims() <= 2 in function 'matchTemplate'
+
+@@TRAX:quit 
+Process exited with code (1)

@@ -1,0 +1,20 @@
+Desde este directorio (en el que se encuentra el archivo Dockerfile), ejecuta lo siguiente para construir la imagen:
+
+
+docker build -t vision-vot .
+
+
+Una vez construida la imagen, para ejecutar el contenedor:
+
+
+./run_container.bash
+
+
+Esto ejecutará el container y enlazará el vot-workspace.
+
+rm -rf cache results
+vot evaluate -f VCTracker
+vot analysis VCTracker
+vot test --sequence sequences/ball1 VCTracker
+
+Los resultados se mostrarán en la carpeta "analysis".
