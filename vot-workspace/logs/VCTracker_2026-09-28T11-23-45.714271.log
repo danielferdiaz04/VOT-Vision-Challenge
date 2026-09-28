@@ -1,0 +1,102 @@
+@@TRAX:hello "trax.name=" "trax.family=" "trax.image=path;" "trax.region=rectangle;" "trax.description=" "trax.version=3" "vot=python" "trax.channels=color;" 
+@@TRAX:initialize "file:///home/vot-workspace/sequences/basketball/color/00000001.jpg" "185.7200,208.7300,45.0100,110.9800" 
+@@TRAX:state "185.7200,208.7300,45.0100,110.9800" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000002.jpg" 
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+@@TRAX:state "183.0000,208.0000,45.0100,110.9800" "confidence=0.9581806659698486" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000003.jpg" 
+@@TRAX:state "182.0000,208.0000,45.0100,110.9800" "confidence=0.8841653093695641" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000004.jpg" 
+@@TRAX:state "180.0000,208.0000,45.0100,110.9800" "confidence=0.8157371133565903" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000005.jpg" 
+@@TRAX:state "177.0000,207.0000,45.0100,110.9800" "confidence=0.7729307264089584" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000006.jpg" 
+@@TRAX:state "173.0000,206.0000,45.0100,110.9800" "confidence=0.7557500004768372" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000007.jpg" 
+@@TRAX:state "184.0000,206.0000,45.0100,110.9800" "confidence=0.7255847156047821" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000008.jpg" 
+@@TRAX:state "162.0000,212.0000,45.0100,110.9800" "confidence=0.7239396572113037" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000009.jpg" 
+@@TRAX:state "162.0000,218.0000,45.0100,110.9800" "confidence=0.7078351974487305" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000010.jpg" 
+@@TRAX:state "164.0000,222.0000,45.0100,110.9800" "confidence=0.7109050452709198" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000011.jpg" 
+@@TRAX:state "174.0000,225.0000,45.0100,110.9800" "confidence=0.7182143032550812" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000012.jpg" 
+@@TRAX:state "178.0000,225.0000,45.0100,110.9800" "confidence=0.7339256405830383" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000013.jpg" 
+@@TRAX:state "181.0000,224.0000,45.0100,110.9800" "confidence=0.7394762635231018" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000014.jpg" 
+@@TRAX:state "193.0000,199.0000,45.0100,110.9800" "confidence=0.7369997501373291" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000015.jpg" 
+@@TRAX:state "196.0000,199.0000,45.0100,110.9800" "confidence=0.7228877246379852" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000016.jpg" 
+@@TRAX:state "207.0000,197.0000,45.0100,110.9800" "confidence=0.7358831763267517" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000017.jpg" 
+@@TRAX:state "207.0000,197.0000,45.0100,110.9800" "confidence=0.740172803401947" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000018.jpg" 
+@@TRAX:state "194.0000,197.0000,45.0100,110.9800" "confidence=0.7415356338024139" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000019.jpg" 
+@@TRAX:state "198.0000,196.0000,45.0100,110.9800" "confidence=0.7559164464473724" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000020.jpg" 
+@@TRAX:state "196.0000,196.0000,45.0100,110.9800" "confidence=0.75387342274189" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000021.jpg" 
+@@TRAX:state "199.0000,195.0000,45.0100,110.9800" "confidence=0.7695240676403046" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000022.jpg" 
+@@TRAX:state "203.0000,193.0000,45.0100,110.9800" "confidence=0.7500234395265579" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000023.jpg" 
+@@TRAX:state "191.0000,194.0000,45.0100,110.9800" "confidence=0.7385235726833344" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000024.jpg" 
+@@TRAX:state "211.0000,192.0000,45.0100,110.9800" "confidence=0.7297665476799011" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000025.jpg" 
+@@TRAX:state "199.0000,193.0000,45.0100,110.9800" "confidence=0.7037095427513123" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000026.jpg" 
+@@TRAX:state "173.0000,194.0000,45.0100,110.9800" "confidence=0.7118114233016968" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000027.jpg" 
+@@TRAX:state "167.0000,194.0000,45.0100,110.9800" "confidence=0.715097576379776" 
+@@TRAX:quit 
+@@TRAX:hello "trax.name=" "trax.family=" "trax.image=path;" "trax.region=rectangle;" "trax.description=" "trax.version=3" "vot=python" "trax.channels=color;" 
+@@TRAX:initialize "file:///home/vot-workspace/sequences/basketball/color/00000032.jpg" "242.6200,226.6600,52.2900,93.8500" 
+@@TRAX:state "242.6200,226.6600,52.2900,93.8500" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000033.jpg" 
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /usr/local/lib/python3.9/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+@@TRAX:state "246.0000,225.0000,52.2900,93.8500" "confidence=0.9762727953493595" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000034.jpg" 
+@@TRAX:state "250.0000,224.0000,52.2900,93.8500" "confidence=0.9491997323930264" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000035.jpg" 
+@@TRAX:state "254.0000,222.0000,52.2900,93.8500" "confidence=0.9297275692224503" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000036.jpg" 
+@@TRAX:state "258.0000,222.0000,52.2900,93.8500" "confidence=0.9109854623675346" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000037.jpg" 
+@@TRAX:state "262.0000,221.0000,52.2900,93.8500" "confidence=0.8989693969488144" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000038.jpg" 
+@@TRAX:state "266.0000,221.0000,52.2900,93.8500" "confidence=0.8830499351024628" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000039.jpg" 
+@@TRAX:state "269.0000,222.0000,52.2900,93.8500" "confidence=0.8679379224777222" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000040.jpg" 
+@@TRAX:state "273.0000,223.0000,52.2900,93.8500" "confidence=0.8518784493207932" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000041.jpg" 
+@@TRAX:state "278.0000,230.0000,52.2900,93.8500" "confidence=0.8378448635339737" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000042.jpg" 
+@@TRAX:state "281.0000,233.0000,52.2900,93.8500" "confidence=0.8397341817617416" 
+@@TRAX:frame "file:///home/vot-workspace/sequences/basketball/color/00000043.jpg" 
+@@TRAX:quit 
+Process exited with code (0)
